@@ -1,8 +1,8 @@
-Listed on this page are the various commands that GAwesomeBot contains, along with short descriptions of what those commands do. Click on a command name for detailed information on that command.
+Listed on this page are the various commands that Devcord contains, along with short descriptions of what those commands do. Click on a command name for detailed information on that command.
 
 ### How to Use Commands
 
-Public commands are available in any channel/server where the bot is connected. The bot will respond when the message begins with his mention, for example: `@GAwesomeBot <command> <option1> <option2>`. This [can be changed](#prefix) per-server, however. You can always use `@GAwesomeBot help` to get the syntax for a specific server. For PM commands, simply start the message with the command name.
+Public commands are available in any channel/server where the bot is connected. The bot will respond when the message begins with his mention, for example: `@Devcord <command> <option1> <option2>`. This [can be changed](#prefix) per-server, however. You can always use `@Devcord help` to get the syntax for a specific server. For PM commands, simply start the message with the command name.
 
 In the below guidance, square brackets (`[]`) indicate that a command parameter is optional. For example, `google <search> [<limit>]` would mean that `<search>` is a mandatory parameter, while the additional parameter `<limit>` is optional.
 
@@ -132,7 +132,7 @@ Allows users to message bot admins. The bot will PM all bot admins with the mess
 **Usage:** `anime <search query> [<limit>]`
 
 ~~This command allows you to quickly look up information on a certain anime from [Hummingbird](https://hummingbird.me/).~~
-Not currently working (see [here](https://github.com/GilbertGobbels/GAwesomeBot/issues/20)), as the Hummingbird API has been closed.
+Not currently working (see [here](##)), as the Hummingbird API has been closed.
 
 ### appstore and linkme
 
